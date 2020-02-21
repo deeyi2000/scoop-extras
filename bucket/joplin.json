@@ -2,9 +2,9 @@
     "homepage": "https://joplin.cozic.net/",
     "description": "A note taking and to-do application with synchronization capabilities.",
     "license": "MIT",
-    "version": "1.0.175",
-    "url": "https://github.com/laurent22/joplin/releases/download/v1.0.175/Joplin-Setup-1.0.175.exe#/dl.7z",
-    "hash": "sha512:95cac0d22225f8aae4d983d0646fb148db22c66fa3f693ac15aced2ecf116d44633aa711a1eb1f46c0dbba091253ee3f8fdd1feb7c85bfbc6f8160b4ab02c8a9",
+    "version": "1.0.179",
+    "url": "https://github.com/laurent22/joplin/releases/download/v1.0.179/Joplin-Setup-1.0.179.exe#/dl.7z",
+    "hash": "sha512:1808ae4d3b1ab6fb0be23919ce3148a04355e903801f9641270b0bf9387a671e45539810abc8adb697a3a203590f0a2affa36fd1a26120bd18bc1c84f58a36c3",
     "extract_dir": "$PLUGINSDIR",
     "pre_install": "Get-ChildItem \"$dir\" -Exclude 'app-64.7z', 'app-32.7z' | Remove-Item -Force -Recurse",
     "architecture": {

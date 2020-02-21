@@ -1,16 +1,16 @@
 {
-    "version": "4.3.2",
+    "version": "4.4.0",
     "description": "Team communication client.",
     "homepage": "https://mattermost.com",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://releases.mattermost.com/desktop/4.3.2/mattermost-desktop-4.3.2-win-x64.zip",
-            "hash": "c34f60dc350b50b10b184ee148f16fcb050f20aa984b8eb7131a62516074d880"
+            "url": "https://releases.mattermost.com/desktop/4.4.0/mattermost-desktop-4.4.0-win-x64.zip",
+            "hash": "10ad1308f311cfa4936667b47262ad8c87c72c5a070594f78bd028b7b465d2b6"
         },
         "32bit": {
-            "url": "https://releases.mattermost.com/desktop/4.3.2/mattermost-desktop-4.3.2-win-ia32.zip",
-            "hash": "42d31e4ca7a98c441b83a8ce1021efd579016108e8cdbc3b9a129081a5e0f444"
+            "url": "https://releases.mattermost.com/desktop/4.4.0/mattermost-desktop-4.4.0-win-ia32.zip",
+            "hash": "4bfcce6f331320bbcc291c7d02ca20e1906922e6e1142a99c73427f1a10f5ce2"
         }
     },
     "bin": "Mattermost.exe",

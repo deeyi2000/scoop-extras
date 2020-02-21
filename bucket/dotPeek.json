@@ -5,15 +5,15 @@
         "identifier": "Proprietary",
         "url": "https://www.jetbrains.com/decompiler/download/license.html"
     },
-    "version": "2019.3.1",
+    "version": "2019.3.3",
     "architecture": {
         "64bit": {
-            "url": "https://download.jetbrains.com/resharper/ReSharperUltimate.2019.3.1/dotPeek64.2019.3.1.exe#/dotpeek.exe",
-            "hash": "bd109af65c818065036a4f4c1214c9ecf4aae50c4a660e800b81e7e3a24af75d"
+            "url": "https://download.jetbrains.com/resharper/ReSharperUltimate.2019.3.3/dotPeek64.2019.3.3.exe#/dotpeek.exe",
+            "hash": "a69eec82b521d3bf90dcbfe2b2db9421aa4bc967bace24c344dc262fde618ae9"
         },
         "32bit": {
-            "url": "https://download.jetbrains.com/resharper/ReSharperUltimate.2019.3.1/dotPeek32.2019.3.1.exe#/dotpeek.exe",
-            "hash": "a1597a8bf17a2563c9e0f1b7e915f500eb5cd8ef60e57faccc6b0f03aabac196"
+            "url": "https://download.jetbrains.com/resharper/ReSharperUltimate.2019.3.3/dotPeek32.2019.3.3.exe#/dotpeek.exe",
+            "hash": "cb9b76f2e552bd7ffb833918579f184aabf8756d46ab6c347f6945e2d4ceb34a"
         }
     },
     "shortcuts": [

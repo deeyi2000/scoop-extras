@@ -1,5 +1,5 @@
 {
-    "version": "32.0.0.314",
+    "version": "32.0.0.330",
     "description": "Standalone version of Adobe Flash Player for debugging",
     "license": {
         "identifier": "Freeware",
@@ -7,7 +7,7 @@
     },
     "homepage": "https://get.adobe.com/flashplayer/",
     "url": "https://fpdownload.macromedia.com/pub/flashplayer/updaters/32/flashplayer_32_sa_debug.exe#/flashplayerdebug.exe",
-    "hash": "92d4fa7fa1abf1547bd137af497d7095de2bf9e2e368aeaaf02e20b62d65f56d",
+    "hash": "d91d7463fe80f439d29d0f59f14c2d27d2a7f1bd672b31f38ab3fc90d10bbfeb",
     "bin": "flashplayerdebug.exe",
     "shortcuts": [
         [

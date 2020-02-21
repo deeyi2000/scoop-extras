@@ -1,5 +1,5 @@
 {
-    "version": "66.0.3515.36",
+    "version": "66.0.3515.95",
     "description": "Fast, secure, easy-to-use browser.",
     "homepage": "https://www.opera.com/",
     "license": {
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://download1.operacdn.com/pub/opera/desktop/66.0.3515.36/win/Opera_66.0.3515.36_Setup_x64.exe#/dl.7z",
-            "hash": "95f9f7ec4d0d59e8e253d80ac649f0585ce165208480e3987759b11e0e06468c"
+            "url": "https://download1.operacdn.com/pub/opera/desktop/66.0.3515.95/win/Opera_66.0.3515.95_Setup_x64.exe#/dl.7z",
+            "hash": "80c902d877b592579c84abbcb0df846db28efcf4ff618535bacb2217931eb5fc"
         },
         "32bit": {
-            "url": "https://download1.operacdn.com/pub/opera/desktop/66.0.3515.36/win/Opera_66.0.3515.36_Setup.exe#/dl.7z",
-            "hash": "5bbeec157aaf2b80349916076b0e0e617fa4cb791f5c2328183651249ec341da"
+            "url": "https://download1.operacdn.com/pub/opera/desktop/66.0.3515.95/win/Opera_66.0.3515.95_Setup.exe#/dl.7z",
+            "hash": "5a379e4cd2bbb722a2b31a6fb405c0474d73ece8e14f9ee6916fc7ce071c0b99"
         }
     },
     "installer": {

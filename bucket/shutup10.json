@@ -1,12 +1,12 @@
 {
     "homepage": "https://www.oo-software.com/en/shutup10",
     "description": "Free antispy tool for Windows 10",
-    "version": "1.7.1405",
+    "version": "1.7.1407",
     "license": {
         "identifier": "Freeware",
         "url": "https://www.oo-software.com/en/shutup10/eula"
     },
-    "hash": "591e82e0e7c8192312bf3432c7190f9c0ea4b41e361f0d5a70429079d5c9eceb",
+    "hash": "2361dad50c6ac253858ad807143ffc220b314e69b602d3a7d6ae4c86990e4564",
     "url": "https://dl5.oo-software.com/files/ooshutup10/OOSU10.exe",
     "shortcuts": [
         [

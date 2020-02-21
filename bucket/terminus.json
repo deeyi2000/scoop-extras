@@ -1,12 +1,12 @@
 {
     "homepage": "https://eugeny.github.io/terminus/",
     "description": "A terminal for a more modern age.",
-    "version": "1.0.100",
+    "version": "1.0.103",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Eugeny/terminus/releases/download/v1.0.100/terminus-1.0.100-setup.exe#/dl.7z",
-            "hash": "sha512:69e525cb0c7b316a95d9a3a94607a6713f28edd49888fbbda25c007e95272312ba241ae7e30580ce5a7564bdddc5b4cbe24a42476cc7d16f1d5f798aa0221601",
+            "url": "https://github.com/Eugeny/terminus/releases/download/v1.0.103/terminus-1.0.103-setup.exe#/dl.7z",
+            "hash": "sha512:8b0fcb7b3458f7ccc8086cc877fd99ec2ec7884f8ecc328bfbbe786194b9cbff122ac1bcf0ddf0dda93627d0d0ede255c46fa3e862881004bea7bb3b2b3d6f15",
             "installer": {
                 "script": [
                     "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
